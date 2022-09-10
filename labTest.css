@@ -1,0 +1,75 @@
+.lab {
+    width: 915px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 200px;
+    box-shadow: rgb(216, 216, 216) 10px 10px 10px 10px;
+    background-color: white;
+    overflow-y: scroll;
+}
+
+.form {
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+.container {
+    padding: 0;
+    width: 450px;
+    height: 700px;
+    background-color: white;
+    display: inline-block;
+}
+
+.heading {
+    margin-left: 15px;
+    font-weight: 800;
+}
+
+.inputTable {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#labimg {
+    margin: 0;
+    padding: 0;
+    width: 450px;
+    height: 450px;
+    position: fixed;
+    display: inline-block;
+}
+
+.inputColumn {
+    border: none;
+    border-bottom: solid 1px rgb(185, 185, 181);
+    padding: 3px;
+
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+.buttonContainer {
+    margin-top: 20px;
+    margin-left: 450px;
+    height: 20px;
+    width: 300px;
+}
+
+a {
+    margin: 10px;
+    height: 20px;
+    width: 90px;
+}
+
+.press {
+    text-align: center;
+    width: 90px;
+    background-color: rgb(207, 39, 207);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
